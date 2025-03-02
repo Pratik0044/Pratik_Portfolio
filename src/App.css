@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+#root {
+  max-width: full;
+  margin: auto auto;
+  /* padding: 2rem; */
+  /* text-align: center; */
+}
+
+/* .logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+} */
